@@ -1,4 +1,6 @@
-### Hi there 👋
+### kroko
+
+![kroko GitHub stats](https://github-readme-stats.vercel.app/api?username=kroko&count_private=true&show_icons=true&theme=synthwave)
 
 <!--
 **kroko/kroko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
