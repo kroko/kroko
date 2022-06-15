@@ -2,7 +2,7 @@
 
 🔭 Other repos under [WARP](https://github.com/WARP-LAB)
 
-![kroko GitHub stats](https://github-readme-stats.vercel.app/api?username=kroko&count_private=true&show_icons=true&theme=synthwave)
+![kroko GitHub stats](https://github-readme-stats.vercel.app/api?username=kroko&custom_title=current%20year%20stats&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave)
 
 <!--
 **kroko/kroko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
